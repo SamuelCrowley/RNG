@@ -1,0 +1,11 @@
+C:\Users\Sam\source\repos\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.exe
+C:\Users\Sam\source\repos\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.deps.json
+C:\Users\Sam\source\repos\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.runtimeconfig.json
+C:\Users\Sam\source\repos\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.runtimeconfig.dev.json
+C:\Users\Sam\source\repos\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.dll
+C:\Users\Sam\source\repos\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.pdb
+C:\Users\Sam\source\repos\RNG\RNG\obj\Debug\netcoreapp3.1\RNG.csprojAssemblyReference.cache
+C:\Users\Sam\source\repos\RNG\RNG\obj\Debug\netcoreapp3.1\RNG.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\RNG\RNG\obj\Debug\netcoreapp3.1\RNG.AssemblyInfo.cs
+C:\Users\Sam\source\repos\RNG\RNG\obj\Debug\netcoreapp3.1\RNG.dll
+C:\Users\Sam\source\repos\RNG\RNG\obj\Debug\netcoreapp3.1\RNG.pdb
